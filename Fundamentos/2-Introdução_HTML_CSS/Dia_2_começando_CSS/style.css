@@ -1,0 +1,41 @@
+h1{
+            
+    font-size: 65px;
+    color: orange;
+    font-family: sans-serif ;
+    
+  
+}
+
+p{
+  font-size: 3em;
+  font-weight: 600;
+}
+body{
+  font-size: 16px;
+}
+.frutas{
+  
+  font-style: italic;
+  line-height: 25px;
+  text-align: justify;
+  text-decoration: underline;
+  
+}
+
+#maca{
+    background-color: red;
+    margin-bottom: 30px;
+          }
+#banana{
+  background-color: yellow;
+  margin-bottom: 30px;
+}
+#goiaba{
+  background-color: greenyellow;
+}          
+.fundo{
+    
+   font-family: sans-serif;
+   font-size: 32px;
+}
