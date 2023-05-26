@@ -1,0 +1,20 @@
+a{
+    font-family: monospace;
+    text-decoration: none;
+}
+
+p, h1{
+    text-align: center;
+}
+
+li:hover{
+    background-color: aqua;
+
+}
+li:active{
+    font-size: 30px;
+}
+.listas{
+    list-style:none;;
+    text-align: center;
+}
